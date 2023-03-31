@@ -1,0 +1,161 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Navigasi */
+
+#navbarNav li {
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.btn-primary{
+    background: #5CB85F;
+    color: white;
+    border-color: #5CB85F;
+    height: 36px;
+    width: 81px;
+    border: none;
+}
+.navbar-brand{
+    background: #0D28A6;
+    color: #0D28A6;
+    border-color: #0D28A6;
+    height: 34px;
+    width: 100px;
+}
+
+
+/* Hero section */
+
+#hero a {
+    color: black;
+    text-decoration: none;
+}
+
+#hero{
+    background-color: #F1F3FF;
+    height: 60vh;
+    width: 100%;
+}
+
+#hero h1{
+    font-size: 36px;
+    width: 100%;
+    line-height: 62px;
+    font-weight: bold;
+
+}
+
+#hero p {
+    font-size: 14px;
+    width: 83%;
+    margin-top: 18px;
+    margin-bottom: 17px;
+}
+
+.img-hero{
+    height: 407px;
+    width: 704px;
+    background-color: #0D28A6;
+   
+}
+
+.btn-primary2{
+    background-color: #5CB85F;
+    height: 36px;
+    width: 140px;
+    color: white;
+    border-color: #5CB85F;
+    border: none;
+    font-size: 14px;
+}
+
+/* Layanan Section */
+#layanan{
+    padding: 100px 0;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+.deskripsi {
+    font-size: 14px;
+    width: 465px;
+    height: 60px;
+}
+
+
+/* Why Us Section */
+#WhyUs {
+    padding: 50px 0;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: bold;
+}
+.whyDeskripsi {
+    font-size: 14px;
+    width: 215px;
+}
+
+.card{
+    width: 100%;
+    height: 196px;
+    border-radius: 8px;
+    padding: 40px;
+    margin-right: 30px;
+}
+
+/* Section Sewa */
+#sewa{
+    width: 1168px;
+    height: 400px;
+    background-color: #0D28A6;
+
+}
+
+#sewa.s1{
+    background-color: #0D28A6;
+    width: 1168px;
+    height: 326px;
+}
+
+h1{
+    font-size: 36px;
+    width: 100%;
+    line-height: 62px;
+    font-weight: bold;
+    
+
+}
+
+.btnMulai{
+    background-color: #5CB85F;
+    height: 36px;
+    width: 140px;
+    color: white;
+    border-color: #5CB85F;
+    border: none;
+    font-size: 14px;
+}
+
+#footer .btn-primary1{
+    background: #0D28A6;
+    color: #0D28A6;
+    border-color: #0D28A6;
+    height: 34px;
+    width: 00px;
+}
+
